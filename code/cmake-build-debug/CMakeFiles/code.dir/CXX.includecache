@@ -9,14 +9,28 @@
 C:/Users/felix/GitHubs/PC4/code/Matriz.h
 iostream
 -
+random
+-
 
 C:/Users/felix/GitHubs/PC4/code/MatrizConcurrente.h
+iostream
+-
+random
+-
+thread
+-
+vector
+-
 
 C:/Users/felix/GitHubs/PC4/code/main.cpp
 Matriz.h
 C:/Users/felix/GitHubs/PC4/code/Matriz.h
 MatrizConcurrente.h
 C:/Users/felix/GitHubs/PC4/code/MatrizConcurrente.h
-random
+chrono
+-
+sys/time.h
+-
+assert.h
 -
 
