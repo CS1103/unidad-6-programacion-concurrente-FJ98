@@ -1,4 +1,4 @@
-Programación Concurrente (PC4 POO2 2019-1)
+**Programación Concurrente (PC4 POO2 2019-1)**
 
 (Ver detalles en PDF)</br></br>
 **Integrantes** </br>
